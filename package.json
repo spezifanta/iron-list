@@ -1,0 +1,44 @@
+{
+  "name": "@polymer/iron-list",
+  "version": "2.0.0",
+  "description": "Displays a virtual, 'infinite' scrolling list of items",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spezifanta/iron-list"
+  },
+  "keywords": [
+    "web-components",
+    "polymer",
+    "list",
+    "virtual-list"
+  ],
+  "contributors": [
+    "The Polymer Authors"
+  ],
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@polymer/polymer": "^1.2.5-npm-test.2",
+    "@polymer/iron-resizable-behavior": "^0.0.3",
+    "@polymer/iron-a11y-keys-behavior": "^0.0.3",
+    "@polymer/iron-scroll-target-behavior": "^0.0.3"
+  },
+  "devDependencies": {
+    "@polymer/app-layout": "master",
+    "@polymer/iron-flex-layout": "^0.0.3",
+    "@polymer/iron-component-page": "^0.0.3",
+    "@polymer/iron-ajax": "^0.0.3",
+    "@polymer/iron-icon": "^0.0.3",
+    "@polymer/iron-icons": "^0.0.3",
+    "@polymer/iron-scroll-threshold": "^0.0.3",
+    "@polymer/paper-menu": "^0.0.3",
+    "@polymer/paper-item": "^0.0.3",
+    "@polymer/paper-icon-button": "^0.0.3",
+    "@polymer/paper-button": "^0.0.3",
+    "@polymer/paper-badge": "^0.0.3",
+    "@polymer/paper-spinner": "^0.0.3",
+    "@polymer/test-fixture": "^0.0.3",
+    "@polymer/iron-test-helpers": "^0.0.3",
+    "webcomponents.js": "^0.7.2",
+    "web-component-tester": "^4.0.0"
+  }
+}
